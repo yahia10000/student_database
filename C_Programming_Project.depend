@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1692214823 source:c:\users\mohamedelsaeed\desktop\amit_project\amit-c_programming_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SDBAPP.h"
+
+1692138951 c:\users\mohamedelsaeed\desktop\amit_project\amit-c_programming_project\sdb.h
+	<stdio.h>
+	"platform_types.h"
+
+1692036396 c:\users\mohamedelsaeed\desktop\amit_project\amit-c_programming_project\platform_types.h
+
+1692303665 source:c:\users\mohamedelsaeed\desktop\amit_project\amit-c_programming_project\sdb.c
+	"SDB.h"
+
+1692209485 c:\users\mohamedelsaeed\desktop\amit_project\amit-c_programming_project\sdbapp.h
+	"SDB.h"
+
+1692215669 source:c:\users\mohamedelsaeed\desktop\amit_project\amit-c_programming_project\sdbapp.c
+	"SDBAPP.h"
+
+1692214823 source:d:\amit-c_programming_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SDBAPP.h"
+
+1692209485 d:\amit-c_programming_project\sdbapp.h
+	"SDB.h"
+
+1692138951 d:\amit-c_programming_project\sdb.h
+	<stdio.h>
+	"platform_types.h"
+
+1696316879 d:\amit-c_programming_project\platform_types.h
+
+1692304010 source:d:\amit-c_programming_project\sdb.c
+	"SDB.h"
+
+1692215669 source:d:\amit-c_programming_project\sdbapp.c
+	"SDBAPP.h"
+
+1692214823 source:d:\c_programming_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SDBAPP.h"
+
+1692209485 d:\c_programming_project\sdbapp.h
+	"SDB.h"
+
+1692138951 d:\c_programming_project\sdb.h
+	<stdio.h>
+	"platform_types.h"
+
+1696316879 d:\c_programming_project\platform_types.h
+
+1692304010 source:d:\c_programming_project\sdb.c
+	"SDB.h"
+
+1696316899 source:d:\c_programming_project\sdbapp.c
+	"SDBAPP.h"
+
